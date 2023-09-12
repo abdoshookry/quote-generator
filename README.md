@@ -1,3 +1,7 @@
+# note:
+
+## To share the quote in linkedin you will need a linkedin business partner account
+
 # quote-generator
 
 hello there, your task is to add social media share buttons, which can be used to share quote on different social media platforms such as whatsapp, twitter, and so on.
